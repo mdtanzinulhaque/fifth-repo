@@ -1,0 +1,8 @@
+.one h1{
+    color:brown;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    letter-spacing: 2px;
+}
