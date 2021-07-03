@@ -17,3 +17,13 @@
     display: block;
     margin: 0 auto;
 }
+.one{
+    background-color: darkgray;
+    border: 5px solid royalblue;
+    margin: 20px;
+}
+.one p{
+    color: #03417A;
+    text-transform: capitalize;
+    text-align: justify;
+}
